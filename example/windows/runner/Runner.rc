@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "il.org.startach" "\0"
-            VALUE "FileDescription", "story_editor_example" "\0"
+            VALUE "CompanyName", "com.example" "\0"
+            VALUE "FileDescription", "ex13done" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "story_editor_example" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 il.org.startach. All rights reserved." "\0"
-            VALUE "OriginalFilename", "story_editor_example.exe" "\0"
-            VALUE "ProductName", "story_editor_example" "\0"
+            VALUE "InternalName", "ex13done" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "ex13done.exe" "\0"
+            VALUE "ProductName", "ex13done" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
